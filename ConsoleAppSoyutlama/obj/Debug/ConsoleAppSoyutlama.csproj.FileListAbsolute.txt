@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppSoyutlama\bin\Debug\ConsoleAppSoyutlama.exe.config
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppSoyutlama\bin\Debug\ConsoleAppSoyutlama.exe
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppSoyutlama\bin\Debug\ConsoleAppSoyutlama.pdb
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppSoyutlama\obj\Debug\ConsoleAppSoyutlama.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppSoyutlama\obj\Debug\ConsoleAppSoyutlama.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppSoyutlama\obj\Debug\ConsoleAppSoyutlama.exe
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppSoyutlama\obj\Debug\ConsoleAppSoyutlama.pdb
